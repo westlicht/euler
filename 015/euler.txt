@@ -1,0 +1,4 @@
+kombinatorik, permutationen ohne wiederholung
+
+result = 40! / (20! * 20!)
+
